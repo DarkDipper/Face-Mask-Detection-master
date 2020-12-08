@@ -9,8 +9,7 @@ pip freeze > requirements.txt
 
 2. JOin group Machine Learning
 https://www.facebook.com/groups/machinelearningcoban/
-Tìm tài liệu đọc về: Keras, Tensorflow, MobileNetV2
-CNN?  ([Conv, Pool, ... ],FullConnect)
+Tìm tài liệu đọc về: Keras, Tensorflow
 
 3. IDE Python
 PyCharm, Anacoda
@@ -24,11 +23,4 @@ Mỗi thành viên tạo bộ ảnh mẫu:
 
 5. Update code
 - Chỉnh link: sử dụng tương đối. (ko xài tuyệt)
-- Cách điều chỉnh các link:
-- Quy ước đường dẫn tương đối:  /	;  ./ ;  ../
-
-[Traning / Tesing] / Validation
-
-
-
 
