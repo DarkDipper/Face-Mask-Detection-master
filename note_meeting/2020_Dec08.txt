@@ -29,6 +29,7 @@ Mỗi thành viên tạo bộ ảnh mẫu:
 
 [Traning / Tesing] / Validation
 
+https://www.facefirst.com/blog/brief-history-of-face-recognition-software/
 
 
 
