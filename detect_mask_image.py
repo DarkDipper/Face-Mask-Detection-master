@@ -76,8 +76,8 @@ faceNet = cv2.dnn.readNet(prototxtPath, weightsPath)
 
 # load the face mask detector model from disk
 maskNet = load_model("mask_detector.model")
-frame=cv2.imread(r"test.jpg")
-#frame = imutils.resize(frame, width=1000)
+frame=cv2.imread(r"test.png")
+frame = imutils.resize(frame, width=1000)
 (locs, preds) = detect_and_predict_mask(frame, faceNet, maskNet)
 for (box, pred) in zip(locs, preds):
 	# unpack the bounding box and predictions
